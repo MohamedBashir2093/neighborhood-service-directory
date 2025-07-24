@@ -43,14 +43,12 @@ CI/CD is configured using **GitHub Actions**. On every push to the main branch:
 - Tests (if added) are run
 - On success, deployment is triggered for both frontend and backend
 
-### ✅ CI/CD Screenshots
 
-> Add screenshots of your GitHub Actions workflow or Vercel/Render build logs below:
 
-![Vercel Build Log](./neighborhood-service-directory/screenshots/image.png)
-![Render Deployment Log](./neighborhood-service-directory/screenshots/Screenshot%202025-07-18%20152652.png)
+---<img width="1361" height="831" alt="Screenshot 2025-07-18 084536" src="https://github.com/user-attachments/assets/ff4627c3-eb7d-4f17-bc67-5969621be854" />
 
----
+<img width="1261" height="835" alt="Screenshot 2025-07-18 092047" src="https://github.com/user-attachments/assets/66e57d1f-7bb3-44c7-bab9-34e069de9aaf" />
+
 
 ## 🔧 Project Structure
 
